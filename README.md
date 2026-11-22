@@ -5,7 +5,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Live_Portfolio-E50914?style=for-the-badge&logo=googlechrome&logoColor=white)](https://fatangadeprathamesh-svg.github.io/portfolio/)
 [![IJIRT Publication](https://img.shields.io/badge/Published_Paper-IJIRT-0A66C2?style=for-the-badge&logo=academia&logoColor=white)](https://ijirt.org/article?manuscript=209192)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/[PLACEHOLDER_LINKEDIN_USERNAME])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/fatangadeprathamesh)
 
 ---
 
@@ -13,10 +13,10 @@
 
 I design and build systems at the intersection of **Autonomous Robotics, Edge AI, and Enterprise Automation**. 
 
-- 🌾 **Published Researcher:** First author of peer-reviewed research on autonomous crop-monitoring robots combining IoT sensing, SLAM navigation, and Edge AI computer vision (IJIRT, Oct 2026).
-- ⚙️ **Process Automation Engineer:** Designing automated workflow pipelines using Python, FastAPI, PostgreSQL, and n8n to eliminate operational manual overhead.
-- 📈 **Domain Expertise:** 5 years of active analytical experience in Indian equity and forex markets, bringing quantitative rigor to software architecture and data models.
-- 🔭 **Current Focus:** Real-time embedded vision on Raspberry Pi / Edge accelerators and production-grade GenAI agent orchestration.
+- 🌾 **Published Researcher:** First author of peer-reviewed research on autonomous crop-monitoring robots combining IoT sensing, autonomous navigation, and Edge AI computer vision (IJIRT, Oct 2026).
+- ⚙️ **Process Automation & Agentic Systems:** Architecting workflow engines and autonomous department systems using Python, FastAPI, PostgreSQL, and n8n to eliminate operational bottlenecks.
+- 📈 **Quantitative Market Experience:** 5 years of active analytical and execution experience across Indian equities (NSE) and forex markets, applying statistical rigor to time-series analysis and software architecture.
+- 🔭 **Current Focus:** Real-time embedded computer vision on Raspberry Pi / Edge accelerators and production-grade GenAI agent orchestration.
 
 ---
 
@@ -25,9 +25,9 @@ I design and build systems at the intersection of **Autonomous Robotics, Edge AI
 **"Smart Agriculture Robot for Crop Monitoring Using IoT Sensing, Autonomous Navigation and Edge AI"**  
 *International Journal of Innovative Research in Technology (IJIRT)*, Vol. 13, Issue 5, Oct 2026, pp. 1269–1279 • ISSN: 2349-6002  
 Authors: **Prathamesh Fatangade**, Tejas Kalaskar, Yash Jagdale, Yash Hinge  
-📄 [Read Full Paper & Citation](https://ijirt.org/article?manuscript=209192) • 📦 [Repository & Schematics (Coming Soon)](https://github.com/fatangadeprathamesh-svg/smart-agri-robot-iot-edge-ai)
+📄 [Read Full Paper & Official Record](https://ijirt.org/article?manuscript=209192) • 📦 [Repository & Schematics](https://github.com/fatangadeprathamesh-svg/smart-agri-robot-iot-edge-ai)
 
-> Evaluated autonomous traversal, real-time multi-sensor telemetry (soil/ambient), and on-device edge computer vision for early crop leaf disease classification.
+> Evaluated autonomous rover traversal, multi-sensor environmental telemetry (soil/ambient), obstacle avoidance, and on-device Edge AI computer vision for real-time crop disease diagnosis.
 
 ---
 
@@ -36,10 +36,12 @@ Authors: **Prathamesh Fatangade**, Tejas Kalaskar, Yash Jagdale, Yash Hinge
 | Project | Description | Core Stack | Links |
 | :--- | :--- | :--- | :---: |
 | **Smart Agriculture Robot** | Autonomous field rover with IoT telemetry, obstacle avoidance, and Edge AI disease detection. | `Python` `OpenCV` `Raspberry Pi` `IoT Sensors` `Edge AI` | [Paper](https://ijirt.org/article?manuscript=209192) • [Repo](https://github.com/fatangadeprathamesh-svg/smart-agri-robot-iot-edge-ai) |
-| **Autonomous Object-Following Robot** | Real-time object tracking and motor navigation on Raspberry Pi 4B using custom vision pipelines. | `Python` `OpenCV` `RPi 4B` `L298N` `GPIO` | [Repo](https://github.com/fatangadeprathamesh-svg/rpi-object-following-robot) |
-| **Intelligent Recruitment & Skill-Gap Engine** | Automated resume parsing, candidate scoring, and targeted skill-gap analysis pipeline. | `Python` `FastAPI` `PostgreSQL` `n8n` `GenAI` | [Repo](https://github.com/fatangadeprathamesh-svg/recruitment-skillgap-automation) |
-| **Month-End HR Self-Audit Assistant** | Workflow automation engine validating attendance, leave discrepancies, and payroll compliance. | `FastAPI` `React` `n8n` `PostgreSQL` | [Repo](https://github.com/fatangadeprathamesh-svg/hr-self-audit-assistant) |
-| **Cinematic Developer Portfolio** | Dark-themed, streaming-inspired personal portfolio showcasing research, projects, and skills. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Live](https://fatangadeprathamesh-svg.github.io/portfolio/) • [Repo](https://github.com/fatangadeprathamesh-svg/portfolio) |
+| **Autonomous Object-Following Robot** | Real-time object tracking and differential drive navigation on Raspberry Pi 4B via OpenCV vision pipelines. | `Python` `OpenCV` `RPi 4B` `L298N` `GPIO` | [Repo](https://github.com/fatangadeprathamesh-svg/rpi4-object-following-robot) |
+| **DeptAgentOS: Autonomous Dept Engine** | Autonomous departmental workflow engine handling intake, deterministic policy evaluation, and exception HITL gates. | `Python` `FastAPI` `AsyncIO` `Agentic Workflows` | [Repo](https://github.com/fatangadeprathamesh-svg/autonomous-dept-engine) |
+| **Intelligent Recruitment & Skill-Gap Engine** | Automated resume parsing, candidate scoring, and targeted skill-gap roadmap generator. | `Python` `FastAPI` `PostgreSQL` `n8n` `GenAI` | [Repo](https://github.com/fatangadeprathamesh-svg/recruitment-skillgap-engine) |
+| **Month-End HR Self-Audit Assistant** | Workflow automation engine detecting biometric attendance discrepancies and payroll compliance anomalies. | `FastAPI` `React` `n8n` `PostgreSQL` | [Repo](https://github.com/fatangadeprathamesh-svg/hr-self-audit-assistant) |
+| **Quantitative Market Analytics Toolkit** | Modular Python backtesting & risk engine computing Sharpe, Sortino, and MDD across equities & forex. | `Python` `Pandas` `NumPy` `Matplotlib` `Risk Modeling` | [Repo](https://github.com/fatangadeprathamesh-svg/quant-market-analytics-python) |
+| **Cinematic Developer Portfolio** | Dark-themed, streaming-inspired personal portfolio showcasing research publications, hardware, and code. | `HTML5` `CSS3` `JavaScript` `GitHub Pages` | [Live](https://fatangadeprathamesh-svg.github.io/portfolio/) • [Repo](https://github.com/fatangadeprathamesh-svg/portfolio) |
 
 ---
 
@@ -96,5 +98,5 @@ Authors: **Prathamesh Fatangade**, Tejas Kalaskar, Yash Jagdale, Yash Hinge
 ## 🤝 Connect & Collaborate
 
 - 🌐 **Interactive Portfolio:** [fatangadeprathamesh-svg.github.io/portfolio](https://fatangadeprathamesh-svg.github.io/portfolio/)
-- 💼 **LinkedIn:** [linkedin.com/in/[PLACEHOLDER_LINKEDIN_USERNAME]](https://linkedin.com/in/[PLACEHOLDER_LINKEDIN_USERNAME])
+- 💼 **LinkedIn:** [linkedin.com/in/fatangadeprathamesh](https://linkedin.com/in/fatangadeprathamesh)
 - 📄 **Research Paper (IJIRT):** [ijirt.org/article?manuscript=209192](https://ijirt.org/article?manuscript=209192)
